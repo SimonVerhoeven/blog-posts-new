@@ -29,6 +29,8 @@ tags: [tdd, code-katas, software-engineering, team-collaboration, continuous-lea
 
 Reading Emily Bache’s *The Coding Dojo Handbook* was a welcome reminder of how we actually learn to build software. Most engineering books focus on what framework to use or how the latest language syntax looks, but this one tackles how you actually change team habits. Specifically, how do we help a team of developers get better at their craft when the daily sprint pressure never lets up?
 
+<!--more-->
+
 ## Contents
 
 - [The Practice Deficit](#the-practice-deficit)
@@ -37,6 +39,8 @@ Reading Emily Bache’s *The Coding Dojo Handbook* was a welcome reminder of how
 - [The Kata in Practice: Shaking Up Old Habits](#the-kata-in-practice-shaking-up-old-habits)
 - [The Facilitation Burden](#the-facilitation-burden)
 - [Final Thoughts](#final-thoughts)
+
+<!--block1-->
 
 ## The Practice Deficit
 
