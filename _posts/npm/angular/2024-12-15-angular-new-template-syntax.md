@@ -132,7 +132,16 @@ Need to import `NgSwitch`, `NgSwitchCase` and `NgSwitchDefault` from `@angular/c
 @switch(randomNumber) {
   @case(1) {ONE}
   @case(2) {TWO}
+  <!-- NG22: support for multiple cases with single block -->
+  @case(3)
+  @case(4) {THREE-FOUR}
   @default {OTHER}
+}
+
+<!-- NG22: Compile-time error for unhandled values of union types -->
+@switch(status) {
+  @case('A') {StatusA}
+  @default never;
 }
 ```
 
