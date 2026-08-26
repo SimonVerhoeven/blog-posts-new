@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Simon Verhoeven
-title: "Book review: The Coding Dojo Handbook"
+title: "Book review: The Coding Dojo Handbook by Emily Bache"
 subTitle: "A practical guide to deliberate practice for developers"
 date: 2026-07-07
 desc: >
@@ -25,14 +25,13 @@ categories: agile
 tags: [tdd, code-katas, software-engineering, team-collaboration, continuous-learning]
 ---
 
-# Review: The Coding Dojo Handbook by Emily Bache
-
 Reading Emily Bache’s *The Coding Dojo Handbook* was a welcome reminder of how we actually learn to build software. Most engineering books focus on what framework to use or how the latest language syntax looks, but this one tackles how you actually change team habits. Specifically, how do we help a team of developers get better at their craft when the daily sprint pressure never lets up?
 
 <!--more-->
 
 ## Contents
 
+- [Contents](#contents)
 - [The Practice Deficit](#the-practice-deficit)
 - [Dojo Formats in Anger](#dojo-formats-in-anger)
 - [The Fine Print](#the-fine-print)
