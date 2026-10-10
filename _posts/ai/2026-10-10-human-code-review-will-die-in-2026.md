@@ -247,7 +247,7 @@ But how some function or class is implemented? `/care`.
 ## So not looking at the code then?
 
 Aside from reading the security, architecture and API surface code before a handoff,
-or before a larger changes goes to production, yeah...  
+or before a larger change goes to production, yeah...  
 And that is a good idea? Uhm, I sure hope so, because, one sec:
 
 > "Claude, how many lines of code has this Dark Factory created so far?"  
